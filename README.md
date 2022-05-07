@@ -1,2 +1,4 @@
-# Math-Computer-Learning
-Computational Problems, Dynamic Programing, 
+# Math-Stat-Computer-Learning
+Exploratory Data Analysis
+Univaritae and Mutlivariate Data
+Python Packages for Statistics
